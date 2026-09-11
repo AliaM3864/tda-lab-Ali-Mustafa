@@ -1,9 +1,8 @@
-# TDA Lab de [ESCRIBE AQUÍ TU NOMBRE]
+# TDA Lab de ALI MUSTAFA
 
-**[TU CURSO] · Curso 2026-2027**
+**2º BACHILLERATO A · Curso 2026-2027**
 
-[Escribe aquí una frase tuya diciendo qué es esto. Por ejemplo: «Aquí voy dejando lo que
-hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.»]
+Este es mi blog, donde voy a ir compartiendo los avances conseguidos en la asignatura TDA.
 
 ---
 
