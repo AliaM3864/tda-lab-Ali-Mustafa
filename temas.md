@@ -5,6 +5,5 @@ Desde pequeño me ha gustado el senderismo. He iniciado  este mundo gracias a mi
 
   Después de hacer una búsqueda en Github he encontrado el siguiente post que sirve para informarse[Hiking Mountains](https://github.com/ThomasParistech/pretty-gpx).
 
-<img width="1200" height="620" alt="20-mejores-rutas-senderismo-mundo-espanola_103" src="https://github.com/user-attachments/assets/c1f54a4a-6b15-41fa-8061-1937647d064c" />
-
+<img width="1000" height="620" alt="56227" src="https://github.com/user-attachments/assets/431c1c43-60a8-45a8-8b1b-bf7a40ac5ba1" />
 
