@@ -5,5 +5,6 @@ Desde pequeño me ha gustado el senderismo. He iniciado  este mundo gracias a mi
 
   Después de hacer una búsqueda en Github he encontrado el siguiente post que sirve para informarse[Hiking Mountains](https://github.com/ThomasParistech/pretty-gpx).
 
-<img width="1920" height="1280" alt="Vistas-desde-Peñamayor-1920x1280" src="https://github.com/user-attachments/assets/13e196b6-27e0-4abd-9bec-d160b0b325d6" />
+<img width="1200" height="900" alt="20-mejores-rutas-senderismo-mundo-espanola_103" src="https://github.com/user-attachments/assets/c1f54a4a-6b15-41fa-8061-1937647d064c" />
+
 
