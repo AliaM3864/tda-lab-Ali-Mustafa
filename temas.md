@@ -1,15 +1,9 @@
 # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+### Mis aficiones - 16/09/2026
+Desde pequeño me ha gustado el senderismo. He iniciado  este mundo gracias a mi padre que me llevaba consigo a realizar diversas rutas sencillas y acampar en sitios totalmente alejados de la civilización, sin internet ni luz ni tecnología. Conforme he ido creciendo he ido realizando rutas tanto solo como acompañado por amigos, aunque no he encontrado la localización correcta para poder acampar que una tarea que he dejado de lado ha medida que he ido creciendo.  H a lo largo de los años he realizado varias rutas de dificultas mediana y me propongo en un futuro hacer más.
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
+  Después de hacer una búsqueda en Github he encontrado el siguiente post que sirve para informarse[Hiking Mountains].
 
-```
-### Título del tema — fecha
+<img width="1920" height="1280" alt="Vistas-desde-Peñamayor-1920x1280" src="https://github.com/user-attachments/assets/13e196b6-27e0-4abd-9bec-d160b0b325d6" />
 
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
