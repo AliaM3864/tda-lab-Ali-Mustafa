@@ -10,6 +10,8 @@ Desde pequeño me ha gustado el senderismo. He iniciado  este mundo gracias a mi
 
 ...
 02/10/2026 Ali Mustafa 
+
+
 Leo Messi considerado de los mejores jugadores de la historia del futbol, el argentino futbolista actual del Inter de Miami, ha recibido el Premio Princesa de Asturias de los deportes 2026, ha sido premiado debido a su desempeño a lo largo de toda su carrera futbolística aparte de su gran calidad actual, el jugador con mas trofeos de la historia. También se a tenido en cuenta sus aportaciones sociales y su interés en apoyar la educación de los jóvenes en argentina. Esta eleción mía a un cierto respeto que le tengo como jugador a Lionel Messi.
 
 ![Foto Messi](<img width="960" height="1282" alt="image" src="https://github.com/user-attachments/assets/04539eb7-590f-45ee-9f6f-27b390f99baa" />
