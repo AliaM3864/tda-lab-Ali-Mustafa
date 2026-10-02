@@ -13,11 +13,11 @@ Desde pequeño me ha gustado el senderismo. He iniciado  este mundo gracias a mi
 
 
 
-Leo Messi considerado de los mejores jugadores de la historia del futbol, el argentino futbolista actual del Inter de Miami, ha recibido el Premio Princesa de Asturias de los deportes 2026, ha sido premiado debido a su desempeño a lo largo de toda su carrera futbolística aparte de su gran calidad actual, el jugador con mas trofeos de la historia. También se a tenido en cuenta sus aportaciones sociales y su interés en apoyar la educación de los jóvenes en argentina. Esta eleción mía a un cierto respeto que le tengo como jugador a Lionel Messi.
+Leo Messi considerado de los mejores jugadores de la historia del futbol, el argentino futbolista actual del Inter de Miami, ha recibido el Premio Princesa de Asturias de los deportes 2026, ha sido premiado debido a su desempeño a lo largo de toda su carrera futbolística aparte de su gran calidad actual, el jugador con mas trofeos de la historia. su página en la Fundación]([https://www.fpa.es/...](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?)) También se a tenido en cuenta sus aportaciones sociales y su interés en apoyar la educación de los jóvenes en argentina. Esta eleción mía a un cierto respeto que le tengo como jugador a Lionel Messi.
 
 
-<img width="960" height="640" alt="image" src="https://github.com/user-attachments/assets/50a19cc6-7be3-43b8-ab3f-eadfa5921fef" />
+![DESCRIPCIÓN CORTA](capturas/NOMBRE-DE-TU-IMAGEN.jpg)
 
-Imagen: Bryan Berlin
+Imagen: Bryan Berlin, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=leo+messi&title=Special%3AMediaSearch&type=image)
 [Pagina Premio Princesa Asturias](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?)
 
