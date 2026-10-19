@@ -30,7 +30,7 @@ Ada Lovelace fue una matemática británica que vivió en el siglo XIX. Trabajó
 
 [Ada  Lovelace en wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
-![IMAGEN DE Ada Lovelace](capturas/ada.jpg){: width="300"}
+![IMAGEN DE Ada Lovelace](capturas/ada.jpg.jpg){: width="300"}
 
 *Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=ada+lovelace&title=Special%3AMediaSearch&type=image)
 
