@@ -27,7 +27,10 @@ Imagen: Bryan Berlin, [Wikimedia Commons](https://commons.wikimedia.org/w/index.
 13/10 · Ada Lovelace
 
 Ada Lovelace fue una matemática británica que vivió en el siglo XIX. Trabajó con las ideas de Charles Babbage sobre una máquina capaz de hacer cálculos y escribió instrucciones para que pudiera resolver problemas matemáticos. Por eso se la considera la primera programadora de la historia, aunque su papel se sigue debatiendo. El Día de Ada Lovelace se celebra el segundo martes de octubre para reconocer los logros de las mujeres en ciencia y tecnología.
+
 [Ada  Lovelace en wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
+
 ![IMAGEN DE Ada Lovelace](capturas/Ada_Lovelace_portrait.jpg){: width="300"}
+
 *Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=ada+lovelace&title=Special%3AMediaSearch&type=image)
 
